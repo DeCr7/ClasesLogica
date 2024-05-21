@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Amaru_2023/Desktop/ClasesLogica/sesion30424",
-      "program": "c:/Users/Amaru_2023/Desktop/ClasesLogica/sesion30424/build/Debug/outDebug",
+      "cwd": "c:/Users/Amaru_2023/Desktop/Pruebas",
+      "program": "c:/Users/Amaru_2023/Desktop/Pruebas/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
